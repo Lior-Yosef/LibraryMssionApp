@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryMssionApp", "LibraryMssionApp\LibraryMssionApp.csproj", "{47E42CD5-F198-42B9-8CFE-56D5FA8BED5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47E42CD5-F198-42B9-8CFE-56D5FA8BED5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E42CD5-F198-42B9-8CFE-56D5FA8BED5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E42CD5-F198-42B9-8CFE-56D5FA8BED5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E42CD5-F198-42B9-8CFE-56D5FA8BED5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC42BBCE-EDB8-4F46-B383-F9FCAA59A9AB}
+	EndGlobalSection
+EndGlobal
